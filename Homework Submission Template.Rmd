@@ -1,0 +1,34 @@
+---
+title: 'Homework #'
+author: "Suffolk ID Number"
+date: "Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Problem Number
+
+##### Problem Part
+
+``` {r}
+## R code input used to do calculations for this problem (use "Insert chunk" button)
+
+## Or use ```{r} code ```
+
+## Press Run
+
+## In settings, choose show code and output
+
+## Use the double hashtag to include text while displaying and running code
+
+## Doing this will automatically display plots and output generated in RStudio. Reading a CSV file like this works best when you use the link address of the download you are using to import a dataset.
+```
+
+Answer the question/problem in a sentence (or more if necessary). Statistics is the most wordy math, so it is important to describe your results in sentences. When you perform statistical analyses on actual research to be published in a paper, you will need this skill of interpreting statistical output.
+
+-----------------------------------------------------------------------------------------------------------------
+
+Copy and paste the sequence of *"problem part X" => R code => interpreting results* for each component of a multi-part problem. If the problem is only one part, then outlining which part of the problem you are answering can be omitted. Although this should be self-explanatory, people seem to blindly follow the structure a given format sometimes. *(Don't do that.)*
