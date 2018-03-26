@@ -2,7 +2,8 @@
 title: 'Homework #'
 author: "Suffolk ID Number"
 date: "Date"
-output: html_document
+output:
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -32,3 +33,5 @@ Answer the question/problem in a sentence (or more if necessary). Statistics is 
 -----------------------------------------------------------------------------------------------------------------
 
 Copy and paste the sequence of *"problem part X" => R code => interpreting results* for each component of a multi-part problem. If the problem is only one part, then outlining which part of the problem you are answering can be omitted. Although this should be self-explanatory, people seem to blindly follow the structure a given format sometimes. *(Don't do that.)*
+
+To export the RMD file containing your homework, you must "Knit" the document, using the knit button above the script, going to *File > Knit document*, or using command + K. This will produce a Word Document of your homework assignment, which you can then upload to be graded. 
